@@ -1,5 +1,5 @@
 # Machine-translation-convolutional-seq2seq
-This rebo is a pytorch implementation of [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
+This repo is a pytorch implementation of [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
 the algorithm achieved 30.0 Belu-score.
 
 # Setup And Inference
